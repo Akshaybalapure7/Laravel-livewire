@@ -10,4 +10,10 @@ class User extends Component
     {
         return view('livewire.user');
     }
+
+
+    public function create()
+    {
+        //Working
+    }
 }
